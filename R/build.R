@@ -1,4 +1,4 @@
-#' beta
+#' tabulaR
 #'
 #' A package containing functions meant to aid the ETL process. This package heavily relies on functions and concepts from the tidyverse, specifically dplyr.
 #'
